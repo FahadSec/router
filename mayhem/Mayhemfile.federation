@@ -1,0 +1,5 @@
+project: router
+target: federation
+
+cmds:
+  - cmd: /federation
