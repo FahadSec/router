@@ -1,5 +1,5 @@
 project: router
-target: router
+target: router_errors
 
 cmds:
-  - cmd: /router
+  - cmd: /router_errors
